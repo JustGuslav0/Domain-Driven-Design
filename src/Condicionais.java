@@ -1,5 +1,4 @@
-
-public class Main {
+public class Condicionais {
     public static void main(String[] args) {
 
         //Trabalhando com expressões booleanas
