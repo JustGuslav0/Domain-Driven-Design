@@ -30,8 +30,6 @@ public class Array {
         System.out.println(frutas);
 
         //Aplicando Loops em Arrays Primitivos - For Each
-        for(String umNome: ){
-
-        }
+        //for(String umNome: ){}
     }
 }
