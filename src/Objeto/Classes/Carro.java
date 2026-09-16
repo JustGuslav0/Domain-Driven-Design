@@ -9,6 +9,7 @@ public class Carro {
     //São representadas pelas variáveis dentro de uma classe
     //Sempre estarão no topo da classe
 
+
     int quantidadeDePortas;
     String cor;
     Modelo modelo;
